@@ -28,7 +28,7 @@
     "express-react-views": "^0.10.2",
     "express-secure-only": "^0.2.1",
     "find-remove": "^0.2.8",
-    "helmet": "^2.3.0",
+    "helmet": "^3.21.0",
     "morgan": "^1.7.0",
     "multer": "^1.2.0",
     "prismjs": "^1.5.1",
