@@ -52,7 +52,7 @@
     "codecov": "npm run test && (codecov || true)"
   },
   "devDependencies": {
-    "babel-eslint": "^7.0.0",
+    "babel-eslint": "^9.0.0",
     "casperjs": "^1.1.3",
     "codecov": "^1.0.1",
     "eslint": "^3.3.1",
