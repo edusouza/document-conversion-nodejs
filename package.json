@@ -27,7 +27,7 @@
     "express-rate-limit": "^2.5.0",
     "express-react-views": "^0.11.0",
     "express-secure-only": "^0.2.1",
-    "find-remove": "^0.2.8",
+    "find-remove": "^2.0.1",
     "helmet": "^3.21.0",
     "morgan": "^1.7.0",
     "multer": "^1.2.0",
